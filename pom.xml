@@ -18,4 +18,21 @@
   <build>
     <finalName>jio2</finalName>
   </build>
+  
+    
+  <distribution managemant>
+   
+    <repository>
+      <id><releases></id>
+        <name><Releases></name>
+          <url>     </url>
+          </repository>
+        
+        <snapshotRepository>
+      <id><snapshots></id>
+        <name><snapshots></name>
+          <url></url>
+           </snapshotRepository>
+        
+  </distribution managemant>
 </project>
