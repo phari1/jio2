@@ -20,7 +20,7 @@
   </build>
   
     
-  <distribution managemant>
+  <distributionmanagemant>
    
     <repository>
       <id><releases></id>
@@ -34,5 +34,5 @@
           <url>http://localhost:8081/repository/JIO-SNAP/</url>
            </snapshotRepository>
         
-  </distribution managemant>
+  </distributionmanagemant>
 </project>
