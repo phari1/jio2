@@ -25,13 +25,13 @@
     <repository>
       <id><releases></id>
         <name><Releases></name>
-          <url>     </url>
+          <url>http://localhost:8081/repository/JIO-REL/</url>
           </repository>
         
         <snapshotRepository>
       <id><snapshots></id>
         <name><snapshots></name>
-          <url></url>
+          <url>http://localhost:8081/repository/JIO-SNAP/</url>
            </snapshotRepository>
         
   </distribution managemant>
